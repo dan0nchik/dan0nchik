@@ -1,8 +1,8 @@
 ![Cat](https://i.imgur.com/oWsVNYD.gif)
 ## Hi there, I'm Daniel 👋
 👀 Working on an ML app in medicine.  
-📚 Learning Data Science!  
-😍 Studying iOS development for hackatons.  
+📚 Learning Data Science and iOS dev!  
+😍 Participating in hackatons.  
 ## Useful links:  
 Telegram: [@dan0nchik](https://t.me/dan0nchik)  
 Kaggle: https://www.kaggle.com/danielkhromov
