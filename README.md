@@ -4,6 +4,7 @@
 📚 Learning Data Science and iOS dev!  
 😍 Participating in hackatons.  
 ## Useful links:  
+Resume: http://dan-khromov.tilda.ws  
 Telegram: [@dan0nchik](https://t.me/dan0nchik)  
 Kaggle: https://www.kaggle.com/danielkhromov
 ## 📊 My stats:  
