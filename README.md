@@ -1,6 +1,6 @@
 ![Cat](https://i.imgur.com/oWsVNYD.gif)
 ## Hi there, I'm Daniel 👋
-👀 Working on an ML app in medicine.  
+👀 Working on ML at eduTech project.  
 📚 Learning Data Science and iOS dev!  
 😍 Participating in hackatons.  
 ## Useful links:  
