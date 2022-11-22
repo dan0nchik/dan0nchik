@@ -1,4 +1,3 @@
-![Cat](https://i.imgur.com/oWsVNYD.gif)
 ## Hi there, I'm Daniel 👋
 👀 Working on ML at eduTech project.  
 📚 Learning Data Science and iOS dev!  
