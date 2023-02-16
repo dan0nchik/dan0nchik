@@ -3,7 +3,7 @@
 📚 Learning Data Science and iOS dev!  
 😍 Participating in hackatons.  
 ## Useful links:  
-Resume: [DropBox link](https://www.dropbox.com/s/dw35ukjjom94xq9/Resume%20%281%29.pdf?dl=0)  
+Resume: https://tinyurl.com/resume-daniel-khromov  
 Telegram: [@dan0nchik](https://t.me/dan0nchik)  
 Kaggle: https://www.kaggle.com/danielkhromov
 ## 📊 My stats:  
