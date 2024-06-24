@@ -1,5 +1,5 @@
 ## Hi there, I'm Daniel 👋
-👀 Looking for a job 
+👀 Looking for a job  
 📚 Data Science student '26 at HSE University!  
 💪 Winning hackatons.  
 ## Contact me:  
