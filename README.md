@@ -1,5 +1,5 @@
 ## Hi there, I'm Daniel 👋
-👀 Working on ML at HRTech project.  
+👀 Looking for a job 
 📚 Data Science student '26 at HSE University!  
 💪 Winning hackatons.  
 ## Contact me:  
