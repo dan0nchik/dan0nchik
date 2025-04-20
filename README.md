@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel 👋
 👀 Looking for a job  
-📚 Data Science student '26 at HSE University!  
+📚 Data Science student at HSE University!  
 💪 Winning hackatons.  
 ## Contact me:  
 Kaggle: https://www.kaggle.com/danielkhromov
